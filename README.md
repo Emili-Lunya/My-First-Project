@@ -1,2 +1,2 @@
 # My-First-Project
-Wellcome to my repository
+Это мой учебный проект. Я учусь пользоваться Git
